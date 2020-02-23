@@ -134,9 +134,9 @@ dns.qry.name contains "www.mit.edu"
 
 ### 11.What is the destination port for the DNS query message? What is the source port of DNS response message?
 
-**destination port for the DNS query message：53**
+destination port for the DNS query message：**53**
 
-**source port of DNS response message：53**
+source port of DNS response message：**53**
 
 ![image-20200217224110488](image/image-20200217224110488.png)
 
